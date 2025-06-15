@@ -1,0 +1,14 @@
+VCS Task
+========
+
+In this VCS task am going to use WSL & Gitbash to complete it.
+
+1. Create Local Repo
+2. Add Files in it
+3. Link it with Remote Repo on Github
+4. Use Merge Command
+5. Use Rebase Command
+6. Use Stash Comman
+
+Task Completed
+===========================
